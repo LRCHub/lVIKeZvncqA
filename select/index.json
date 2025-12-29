@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ORANGE PARADE（feat. 戌神ころね）",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2025-12-29T05:50:26.601855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ORANGE PARADE feat. 戌神ころね",
+      "artist": "猫又おかゆ/戌神ころね",
+      "has_synced": true,
+      "path": "select/01_ORANGE_PARADE_feat._戌神ころね_猫又おかゆ_戌神ころね.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ORANGE PARADE feat. 戌神ころね",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/02_ORANGE_PARADE_feat._戌神ころね_猫又おかゆ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ORANGE PARADE (feat. 戌神ころね)",
+      "artist": "猫又おかゆ",
+      "has_synced": true,
+      "path": "select/03_ORANGE_PARADE_(feat._戌神ころね)_猫又おかゆ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ORANGE PARADE feat. 戌神ころね",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_ORANGE_PARADE_feat._戌神ころね_猫又おかゆ.txt"
+    }
+  ]
+}
