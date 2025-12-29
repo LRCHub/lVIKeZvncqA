@@ -1,4 +1,4 @@
-# 猫又おかゆ – ORANGE PARADE
+# 猫又おかゆ – ORANGE PARADE（feat. 戌神ころね）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
